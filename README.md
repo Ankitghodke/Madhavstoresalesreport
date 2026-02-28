@@ -152,6 +152,4 @@ This dashboard converts **500 raw e-commerce orders into actionable business int
 
 ![Dashboard](msd.PNG)
 
----
 
-*Every metric in this README is verified from actual dataset analysis.*
